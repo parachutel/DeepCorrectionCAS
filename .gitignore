@@ -1,0 +1,12 @@
+*.DS_Store
+*.ipynb_checkpoints
+*.mp4
+*.csv
+*.jld
+*.tex
+*.outdated
+*.pdf
+
+logs
+simulation_results
+
