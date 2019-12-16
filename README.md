@@ -26,7 +26,8 @@ A sample animation for simulation is shown below:
 This folder contains some evaluation tools. 
 - `ResolutionRatio`: evaluating the success rate of CAS in resolving encounters
 - `ResolutionTime`: evaluating the time CAS use to resolve encounters
-- `Sensitivity`: evaluating the alert sensitivity of CAS
+- `Sensitivity`: evaluating the alert sensitivity of CAS  
+<img src="/docs/sensitivity.png" width="280" height="216">
 - `TrajectoryViz`: visualizing flight trajectories under designed encounter scenarios with selected CAS  
 
 NoCAS | VICASClosest |  CorrectedSector
