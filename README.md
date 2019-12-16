@@ -27,7 +27,12 @@ This folder contains some evaluation tools.
 - `ResolutionRatio`: evaluating the success rate of CAS in resolving encounters
 - `ResolutionTime`: evaluating the time CAS use to resolve encounters
 - `Sensitivity`: evaluating the alert sensitivity of CAS
-- `TrajectoryViz`: visualizing flight trajectories under designed encounter scenarios with selected CAS
+- `TrajectoryViz`: visualizing flight trajectories under designed encounter scenarios with selected CAS  
+
+VICASClosest             |  CorrectedSector
+:-------------------------:|:-----------------------:
+<img src="/docs/vicas_closest_trajviz.gif" width="250" height="250">  |  <img src="/docs/corrected_sector_trajviz.gif" width="250" height="250">
+
 
 
 ## Publication
